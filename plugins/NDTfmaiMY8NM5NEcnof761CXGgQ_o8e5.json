@@ -1,0 +1,1264 @@
+{
+    "schemaVersion": 1,
+    "metadata": {
+        "plugin": "file-tree-alternative",
+        "version": "1.0.0",
+        "title": "File Tree Alternative",
+        "description": "File Tree Alternative Localization & Tweaks",
+        "language": "zh-cn",
+        "supportedVersions": "2.6.0",
+        "author": ""
+    },
+    "dict": {
+        "main.js": {
+            "ast": [
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Vertical",
+                    "target": "Vertical"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Horizontal",
+                    "target": "Horizontal"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Disabled",
+                    "target": "Disabled"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Circle GG",
+                    "target": "Circle GG"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "typicon",
+                    "target": "typicon"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Typicons",
+                    "target": "Typicons"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "icomoon",
+                    "target": "icomoon"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "IcoMoon Icons",
+                    "target": "IcoMoon Icons"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Box Icons",
+                    "target": "Box Icons"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "default",
+                    "target": "default"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Default",
+                    "target": "Default"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "notes",
+                    "target": "notes"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Notes",
+                    "target": "Notes"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "files",
+                    "target": "files"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "All Files",
+                    "target": "All Files"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "permanent",
+                    "target": "permanent"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Delete Permanently",
+                    "target": "Delete Permanently"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "trash",
+                    "target": "trash"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Move to Obsidian Trash",
+                    "target": "Move to Obsidian Trash"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Move to System Trash",
+                    "target": "Move to System Trash"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "createDiv",
+                    "source": "coffee",
+                    "target": "coffee"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "createEl",
+                    "source": "div",
+                    "target": "div"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "createEl",
+                    "source": "button",
+                    "target": "button"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "createEl",
+                    "source": "input",
+                    "target": "input"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "createEl",
+                    "source": "img",
+                    "target": "img"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "forceFrameRate takes a positive int between 0 and 125, forcing frame rates higher than 125 fps is not supported",
+                    "target": "forceFrameRate takes a positive int between 0 and 125, forcing frame rates higher than 125 fps is not supported"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "Loading Alternative File Tree Plugin",
+                    "target": "Loading Alternative File Tree Plugin"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "Unloading Alternative File Tree Plugin",
+                    "target": "Unloading Alternative File Tree Plugin"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setButtonText",
+                    "source": "Reload File Tree",
+                    "target": "Reload File Tree"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setButtonText",
+                    "source": "Click for Clearing the Cache",
+                    "target": "Click for Clearing the Cache"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setButtonText",
+                    "source": "Click for Clearing the Pinned files",
+                    "target": "Click for Clearing the Pinned files"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Turn on if you want to see the folders and files in a single view without switching between views. Similar experience to Evernote.",
+                    "target": "Turn on if you want to see the folders and files in a single view without switching between views. Similar experience to Evernote."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Turn on if you want Ribbon Icon for activating the File Tree.",
+                    "target": "Turn on if you want Ribbon Icon for activating the File Tree."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Turn off if you don't want file tree view to be opened automatically during vault start",
+                    "target": "Turn off if you don't want file tree view to be opened automatically during vault start"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Change the default folder icons your preferred option",
+                    "target": "Change the default folder icons your preferred option"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Turn on if you want see the number of notes/files under file tree.",
+                    "target": "Turn on if you want see the number of notes/files under file tree."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Select which files you want to be included into count",
+                    "target": "Select which files you want to be included into count"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Turn this option on if you want to create Folder Note same as Folder Note Plugin. \n                By default, Click will open the list of files. You need to use \"Shift+Click\" to open the folder note. If folder has a folder note, \n                you will see an arrow icon on the right side of folder. The note created as a folder note is hidden in the file list.",
+                    "target": "Turn this option on if you want to create Folder Note same as Folder Note Plugin. \n                By default, Click will open the list of files. You need to use \"Shift+Click\" to open the folder note. If folder has a folder note, \n                you will see an arrow icon on the right side of folder. The note created as a folder note is hidden in the file list."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Turn on this option if you want to see the list of files from all subfolders in addition to the selected folder",
+                    "target": "Turn on this option if you want to see the list of files from all subfolders in addition to the selected folder"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Turn on this option if you want to have an additional button on the top of the file list to toggle \"Include Files From Subfolders\"",
+                    "target": "Turn on this option if you want to have an additional button on the top of the file list to toggle \"Include Files From Subfolders\""
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Turn on this option if you want to have an additional button to reveal the active file in the file tree. It will set the folder and file pane accordingly.",
+                    "target": "Turn on this option if you want to have an additional button to reveal the active file in the file tree. It will set the folder and file pane accordingly."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Turn on this option if you want to enable search function to filter files by name.",
+                    "target": "Turn on this option if you want to enable search function to filter files by name."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "\"all:\" and \"tag:\" searches by default looks for all files in your vault. Turn on this option if you want search only in Focused Folder",
+                    "target": "\"all:\" and \"tag:\" searches by default looks for all files in your vault. Turn on this option if you want search only in Focused Folder"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Turn on if you want to file icon before the file name in the file list.",
+                    "target": "Turn on if you want to file icon before the file name in the file list."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Turn on if you want to preview the files once you hover on them within the file list holding Ctrl/Cmd button.",
+                    "target": "Turn on if you want to preview the files once you hover on them within the file list holding Ctrl/Cmd button."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Turn on if you want buttons and header to be not scrolled within the file list.",
+                    "target": "Turn on if you want buttons and header to be not scrolled within the file list."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Turn on if you want to see the full path within the file name list rather than only file name",
+                    "target": "Turn on if you want to see the full path within the file name list rather than only file name"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Select where you want files to be moved once they are deleted",
+                    "target": "Select where you want files to be moved once they are deleted"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Turn on if you want plugin to include created YAML key with the time of creation",
+                    "target": "Turn on if you want plugin to include created YAML key with the time of creation"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Turn on if you want plugin to add the initial file name as main header in the created file.",
+                    "target": "Turn on if you want plugin to add the initial file name as main header in the created file."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "It will hide \"attachments\" folder from the view and any file under this folder from the file list",
+                    "target": "It will hide \"attachments\" folder from the view and any file under this folder from the file list"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Provide extension of files, which you want to exclude from listing in file tree, divided by comma. i.e. 'png, pdf, jpeg'.\n            You need to reload the vault or use \"Reload File Tree\" button below to make changes effective.",
+                    "target": "Provide extension of files, which you want to exclude from listing in file tree, divided by comma. i.e. 'png, pdf, jpeg'.\n            You need to reload the vault or use \"Reload File Tree\" button below to make changes effective."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Provide full path of folders, which you want to exclude from listing in file tree, divided by comma. i.e. 'Personal/Attachments, Work/Documents/Folders'.\n            All subfolders are going to be excluded, as well. You need to reload the vault or use \"Reload File Tree\" button below to make changes effective.",
+                    "target": "Provide full path of folders, which you want to exclude from listing in file tree, divided by comma. i.e. 'Personal/Attachments, Work/Documents/Folders'.\n            All subfolders are going to be excluded, as well. You need to reload the vault or use \"Reload File Tree\" button below to make changes effective."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Use this button to reload the file tree. Reloading the file tree is required for some of the settings. You can also restart your vault to have same effect.",
+                    "target": "Use this button to reload the file tree. Reloading the file tree is required for some of the settings. You can also restart your vault to have same effect."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "This button will clear the following cache data: \"Last position of the divider\" & \"List of expanded folders in the folder pane\", \n                & \"Last active folder path\". It will not touch your settings above and list of pinned files. It is recommended to do this clearing once in a while.",
+                    "target": "This button will clear the following cache data: \"Last position of the divider\" & \"List of expanded folders in the folder pane\", \n                & \"Last active folder path\". It will not touch your settings above and list of pinned files. It is recommended to do this clearing once in a while."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "This button will clear the pinned files in the file list pane.",
+                    "target": "This button will clear the pinned files in the file list pane."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Evernote View",
+                    "target": "Evernote View"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Ribbon Icon",
+                    "target": "Ribbon Icon"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Open on Start",
+                    "target": "Open on Start"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Bookmarks Event Listener (Shift + Click)",
+                    "target": "Bookmarks Event Listener (Shift + Click)"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Folder Icons",
+                    "target": "Folder Icons"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Show Root Folder",
+                    "target": "Show Root Folder"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Folder Count",
+                    "target": "Folder Count"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Folder Count Details",
+                    "target": "Folder Count Details"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Folder Note",
+                    "target": "Folder Note"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Include Files From Subfolders to the File List",
+                    "target": "Include Files From Subfolders to the File List"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Toggle Button for Include Files from Subfolders",
+                    "target": "Toggle Button for Include Files from Subfolders"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Reveal Active File in File Tree Button",
+                    "target": "Reveal Active File in File Tree Button"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Search in File List",
+                    "target": "Search in File List"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "All & Tag Search only in Focused Folder",
+                    "target": "All & Tag Search only in Focused Folder"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Icon Before File Name",
+                    "target": "Icon Before File Name"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Preview File on Hover",
+                    "target": "Preview File on Hover"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Fixed Buttons and Header in File Pane",
+                    "target": "Fixed Buttons and Header in File Pane"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Show file names as full path",
+                    "target": "Show file names as full path"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Deleted File Destination",
+                    "target": "Deleted File Destination"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Created information in YAML",
+                    "target": "Created information in YAML"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Set File Name as Header 1",
+                    "target": "Set File Name as Header 1"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Hide Attachments",
+                    "target": "Hide Attachments"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Excluded File Extensions",
+                    "target": "Excluded File Extensions"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Excluded Folder Paths",
+                    "target": "Excluded Folder Paths"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Clear All Cache Data",
+                    "target": "Clear All Cache Data"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Clear Pinned Files",
+                    "target": "Clear Pinned Files"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "Reverse Order",
+                    "target": "Reverse Order"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "Unpin",
+                    "target": "Unpin"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "Pin to Top",
+                    "target": "Pin to Top"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "Rename",
+                    "target": "Rename"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "Delete",
+                    "target": "Delete"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "Open in a new tab",
+                    "target": "Open in a new tab"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "Open to right",
+                    "target": "Open to right"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "Make a copy",
+                    "target": "Make a copy"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "Move file to...",
+                    "target": "Move file to..."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "Focus on Folder",
+                    "target": "Focus on Folder"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "Focus Back to Root",
+                    "target": "Focus Back to Root"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "New Folder",
+                    "target": "New Folder"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "New File",
+                    "target": "New File"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "Move folder to...",
+                    "target": "Move folder to..."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "Add to Excluded Folders",
+                    "target": "Add to Excluded Folders"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "Open Folder Note",
+                    "target": "Open Folder Note"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "Delete Folder Note",
+                    "target": "Delete Folder Note"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "Create Folder Note",
+                    "target": "Create Folder Note"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "Focus to Parent Folder",
+                    "target": "Focus to Parent Folder"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "Folder Name (A to Z)",
+                    "target": "Folder Name (A to Z)"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "Item Numbers (Bigger to Smaller)",
+                    "target": "Item Numbers (Bigger to Smaller)"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTooltip",
+                    "source": "Click here to reload the file tree",
+                    "target": "Click here to reload the file tree"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTooltip",
+                    "source": "Click here to clear the cache data",
+                    "target": "Click here to clear the cache data"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTooltip",
+                    "source": "Click here to clear the pinned files",
+                    "target": "Click here to clear the pinned files"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "warn",
+                    "source": "Warning: There are known issues using useRecoilBridgeAcrossReactRoots() in recoil_mutable_source rendering mode.  Please consider upgrading to recoil_sync_external_store mode.",
+                    "target": "Warning: There are known issues using useRecoilBridgeAcrossReactRoots() in recoil_mutable_source rendering mode.  Please consider upgrading to recoil_sync_external_store mode."
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Couldnt find the file",
+                    "target": "Couldnt find the file"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "You cant move folder under its child",
+                    "target": "You cant move folder under its child"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Couldnt find the folder",
+                    "target": "Couldnt find the folder"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "File not found",
+                    "target": "File not found"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Folder not found",
+                    "target": "Folder not found"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "The plugin cache is cleared...",
+                    "target": "The plugin cache is cleared..."
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "The pinned files are cleared...",
+                    "target": "The pinned files are cleared..."
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Not a file or folder",
+                    "target": "Not a file or folder"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "aria-label",
+                    "source": "Close File Pane",
+                    "target": "Close File Pane"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "aria-label",
+                    "source": "Go Back to Folder View",
+                    "target": "Go Back to Folder View"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "aria-label",
+                    "source": "Reveal Active File",
+                    "target": "Reveal Active File"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "aria-label",
+                    "source": "Hide Files from Sub-Folders",
+                    "target": "Hide Files from Sub-Folders"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "aria-label",
+                    "source": "Show Files from Sub-Folders",
+                    "target": "Show Files from Sub-Folders"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "aria-label",
+                    "source": "Search File by Name or Tag",
+                    "target": "Search File by Name or Tag"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "aria-label",
+                    "source": "Sorting Options",
+                    "target": "Sorting Options"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "aria-label",
+                    "source": "Create a Note",
+                    "target": "Create a Note"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "aria-label",
+                    "source": "Create Folder",
+                    "target": "Create Folder"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "aria-label",
+                    "source": "Collapse Folders",
+                    "target": "Collapse Folders"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "aria-label",
+                    "source": "Expand Folders",
+                    "target": "Expand Folders"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Files",
+                    "target": "Files"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "id",
+                    "source": " create-new-note",
+                    "target": " create-new-note"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "Too many files",
+                    "target": "Too many files"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "en",
+                    "target": "en"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Open File Tree View",
+                    "target": "Open File Tree View"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Reveal Active File",
+                    "target": "Reveal Active File"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Create a New Note",
+                    "target": "Create a New Note"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Confirm",
+                    "target": "Confirm"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Cancel",
+                    "target": "Cancel"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "General",
+                    "target": "General"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Folder Pane Settings",
+                    "target": "Folder Pane Settings"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "File Pane Settings",
+                    "target": "File Pane Settings"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "File Creation",
+                    "target": "File Creation"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "The settings below are only applicable if the plus (+) button within the file pane of the plugin is used.",
+                    "target": "The settings below are only applicable if the plus (+) button within the file pane of the plugin is used."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Exclude Settings",
+                    "target": "Exclude Settings"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Clear Data",
+                    "target": "Clear Data"
+                }
+            ],
+            "regex": [
+                {
+                    "source": "setTitle(`${label} (${order})`)",
+                    "target": "setTitle(`${label} (${order})`)"
+                },
+                {
+                    "source": "setTitle('Reverse Order')",
+                    "target": "setTitle('Reverse Order')"
+                },
+                {
+                    "source": "setTitle('Pin to Top')",
+                    "target": "setTitle('Pin to Top')"
+                },
+                {
+                    "source": "setTitle('Open in a new tab')",
+                    "target": "setTitle('Open in a new tab')"
+                },
+                {
+                    "source": "setTitle('Open to right')",
+                    "target": "setTitle('Open to right')"
+                },
+                {
+                    "source": "setTitle('Make a copy')",
+                    "target": "setTitle('Make a copy')"
+                },
+                {
+                    "source": "setTitle('Move file to...')",
+                    "target": "setTitle('Move file to...')"
+                },
+                {
+                    "source": "Notice('Couldnt find the file')",
+                    "target": "Notice('Couldnt find the file')"
+                },
+                {
+                    "source": "Notice('You cant move folder under its child')",
+                    "target": "Notice('You cant move folder under its child')"
+                },
+                {
+                    "source": "Notice('Couldnt find the folder')",
+                    "target": "Notice('Couldnt find the folder')"
+                },
+                {
+                    "source": "setTitle('Focus on Folder')",
+                    "target": "setTitle('Focus on Folder')"
+                },
+                {
+                    "source": "setTitle('Focus Back to Root')",
+                    "target": "setTitle('Focus Back to Root')"
+                },
+                {
+                    "source": "setTitle('New Folder')",
+                    "target": "setTitle('New Folder')"
+                },
+                {
+                    "source": "setTitle('New File')",
+                    "target": "setTitle('New File')"
+                },
+                {
+                    "source": "setTitle('Move folder to...')",
+                    "target": "setTitle('Move folder to...')"
+                },
+                {
+                    "source": "setTitle('Add to Excluded Folders')",
+                    "target": "setTitle('Add to Excluded Folders')"
+                },
+                {
+                    "source": "setTitle('Open Folder Note')",
+                    "target": "setTitle('Open Folder Note')"
+                },
+                {
+                    "source": "setTitle('Delete Folder Note')",
+                    "target": "setTitle('Delete Folder Note')"
+                },
+                {
+                    "source": "setTitle('Create Folder Note')",
+                    "target": "setTitle('Create Folder Note')"
+                },
+                {
+                    "source": "setTitle('Focus to Parent Folder')",
+                    "target": "setTitle('Focus to Parent Folder')"
+                },
+                {
+                    "source": "setTitle('Folder Name (A to Z)')",
+                    "target": "setTitle('Folder Name (A to Z)')"
+                },
+                {
+                    "source": "setTitle('Item Numbers (Bigger to Smaller)')",
+                    "target": "setTitle('Item Numbers (Bigger to Smaller)')"
+                },
+                {
+                    "source": "Notice('File not found')",
+                    "target": "Notice('File not found')"
+                },
+                {
+                    "source": "Notice('Folder not found')",
+                    "target": "Notice('Folder not found')"
+                },
+                {
+                    "source": "setName('Evernote View')",
+                    "target": "setName('Evernote View')"
+                },
+                {
+                    "source": "setDesc('Turn on if you want to see the folders and files in a single view without switching between views. Similar experience to Evernote.')",
+                    "target": "setDesc('Turn on if you want to see the folders and files in a single view without switching between views. Similar experience to Evernote.')"
+                },
+                {
+                    "source": "setName('Ribbon Icon')",
+                    "target": "setName('Ribbon Icon')"
+                },
+                {
+                    "source": "setDesc('Turn on if you want Ribbon Icon for activating the File Tree.')",
+                    "target": "setDesc('Turn on if you want Ribbon Icon for activating the File Tree.')"
+                },
+                {
+                    "source": "setName('Open on Start')",
+                    "target": "setName('Open on Start')"
+                },
+                {
+                    "source": "setDesc(\"Turn off if you don't want file tree view to be opened automatically during vault start\")",
+                    "target": "setDesc(\"Turn off if you don't want file tree view to be opened automatically during vault start\")"
+                },
+                {
+                    "source": "setName('Bookmarks Event Listener (Shift + Click)')",
+                    "target": "setName('Bookmarks Event Listener (Shift + Click)')"
+                },
+                {
+                    "source": "setDesc('This will enable to reveal file or folder from core bookmarks plugin.' +\n            'Because there is no API yet to overwrite the default behaviour for Bookmarks plugin,' +\n            'this will add an event to reveal file if you click on bookmark name using shift')",
+                    "target": "setDesc('This will enable to reveal file or folder from core bookmarks plugin.' +\n            'Because there is no API yet to overwrite the default behaviour for Bookmarks plugin,' +\n            'this will add an event to reveal file if you click on bookmark name using shift')"
+                },
+                {
+                    "source": "setName('Folder Icons')",
+                    "target": "setName('Folder Icons')"
+                },
+                {
+                    "source": "setDesc('Change the default folder icons your preferred option')",
+                    "target": "setDesc('Change the default folder icons your preferred option')"
+                },
+                {
+                    "source": "setName('Show Root Folder')",
+                    "target": "setName('Show Root Folder')"
+                },
+                {
+                    "source": "setDesc(`Turn on if you want your Root Folder \"${this.plugin.app.vault.getName()}\" to be visible in the file tree`)",
+                    "target": "setDesc(`Turn on if you want your Root Folder \"${this.plugin.app.vault.getName()}\" to be visible in the file tree`)"
+                },
+                {
+                    "source": "setName('Folder Count')",
+                    "target": "setName('Folder Count')"
+                },
+                {
+                    "source": "setDesc('Turn on if you want see the number of notes/files under file tree.')",
+                    "target": "setDesc('Turn on if you want see the number of notes/files under file tree.')"
+                },
+                {
+                    "source": "setName('Folder Count Details')",
+                    "target": "setName('Folder Count Details')"
+                },
+                {
+                    "source": "setDesc('Select which files you want to be included into count')",
+                    "target": "setDesc('Select which files you want to be included into count')"
+                },
+                {
+                    "source": "setName('Folder Note')",
+                    "target": "setName('Folder Note')"
+                },
+                {
+                    "source": "setName('Include Files From Subfolders to the File List')",
+                    "target": "setName('Include Files From Subfolders to the File List')"
+                },
+                {
+                    "source": "setDesc(`Turn on this option if you want to see the list of files from all subfolders in addition to the selected folder`)",
+                    "target": "setDesc(`Turn on this option if you want to see the list of files from all subfolders in addition to the selected folder`)"
+                },
+                {
+                    "source": "setName('Toggle Button for Include Files from Subfolders')",
+                    "target": "setName('Toggle Button for Include Files from Subfolders')"
+                },
+                {
+                    "source": "setDesc(`Turn on this option if you want to have an additional button on the top of the file list to toggle \"Include Files From Subfolders\"`)",
+                    "target": "setDesc(`Turn on this option if you want to have an additional button on the top of the file list to toggle \"Include Files From Subfolders\"`)"
+                },
+                {
+                    "source": "setName('Reveal Active File in File Tree Button')",
+                    "target": "setName('Reveal Active File in File Tree Button')"
+                },
+                {
+                    "source": "setDesc(`Turn on this option if you want to have an additional button to reveal the active file in the file tree. It will set the folder and file pane accordingly.`)",
+                    "target": "setDesc(`Turn on this option if you want to have an additional button to reveal the active file in the file tree. It will set the folder and file pane accordingly.`)"
+                },
+                {
+                    "source": "setName('Search in File List')",
+                    "target": "setName('Search in File List')"
+                },
+                {
+                    "source": "setDesc(`Turn on this option if you want to enable search function to filter files by name.`)",
+                    "target": "setDesc(`Turn on this option if you want to enable search function to filter files by name.`)"
+                },
+                {
+                    "source": "setName('All & Tag Search only in Focused Folder')",
+                    "target": "setName('All & Tag Search only in Focused Folder')"
+                },
+                {
+                    "source": "setDesc(`\"all:\" and \"tag:\" searches by default looks for all files in your vault. Turn on this option if you want search only in Focused Folder`)",
+                    "target": "setDesc(`\"all:\" and \"tag:\" searches by default looks for all files in your vault. Turn on this option if you want search only in Focused Folder`)"
+                },
+                {
+                    "source": "setName('Icon Before File Name')",
+                    "target": "setName('Icon Before File Name')"
+                },
+                {
+                    "source": "setDesc('Turn on if you want to file icon before the file name in the file list.')",
+                    "target": "setDesc('Turn on if you want to file icon before the file name in the file list.')"
+                },
+                {
+                    "source": "setName('Preview File on Hover')",
+                    "target": "setName('Preview File on Hover')"
+                },
+                {
+                    "source": "setDesc('Turn on if you want to preview the files once you hover on them within the file list holding Ctrl/Cmd button.')",
+                    "target": "setDesc('Turn on if you want to preview the files once you hover on them within the file list holding Ctrl/Cmd button.')"
+                },
+                {
+                    "source": "setName('Fixed Buttons and Header in File Pane')",
+                    "target": "setName('Fixed Buttons and Header in File Pane')"
+                },
+                {
+                    "source": "setDesc('Turn on if you want buttons and header to be not scrolled within the file list.')",
+                    "target": "setDesc('Turn on if you want buttons and header to be not scrolled within the file list.')"
+                },
+                {
+                    "source": "setName('Show file names as full path')",
+                    "target": "setName('Show file names as full path')"
+                },
+                {
+                    "source": "setDesc('Turn on if you want to see the full path within the file name list rather than only file name')",
+                    "target": "setDesc('Turn on if you want to see the full path within the file name list rather than only file name')"
+                },
+                {
+                    "source": "setName('Deleted File Destination')",
+                    "target": "setName('Deleted File Destination')"
+                },
+                {
+                    "source": "setDesc('Select where you want files to be moved once they are deleted')",
+                    "target": "setDesc('Select where you want files to be moved once they are deleted')"
+                },
+                {
+                    "source": "setName('Created information in YAML')",
+                    "target": "setName('Created information in YAML')"
+                },
+                {
+                    "source": "setDesc('Turn on if you want plugin to include created YAML key with the time of creation')",
+                    "target": "setDesc('Turn on if you want plugin to include created YAML key with the time of creation')"
+                },
+                {
+                    "source": "setName('Set File Name as Header 1')",
+                    "target": "setName('Set File Name as Header 1')"
+                },
+                {
+                    "source": "setDesc('Turn on if you want plugin to add the initial file name as main header in the created file.')",
+                    "target": "setDesc('Turn on if you want plugin to add the initial file name as main header in the created file.')"
+                },
+                {
+                    "source": "setName('Hide Attachments')",
+                    "target": "setName('Hide Attachments')"
+                },
+                {
+                    "source": "setDesc(`It will hide \"attachments\" folder from the view and any file under this folder from the file list`)",
+                    "target": "setDesc(`It will hide \"attachments\" folder from the view and any file under this folder from the file list`)"
+                },
+                {
+                    "source": "setName('Excluded File Extensions')",
+                    "target": "setName('Excluded File Extensions')"
+                },
+                {
+                    "source": "setDesc(`Provide extension of files, which you want to exclude from listing in file tree, divided by comma. i.e. 'png, pdf, jpeg'.\n            You need to reload the vault or use \"Reload File Tree\" button below to make changes effective.`)",
+                    "target": "setDesc(`Provide extension of files, which you want to exclude from listing in file tree, divided by comma. i.e. 'png, pdf, jpeg'.\n            You need to reload the vault or use \"Reload File Tree\" button below to make changes effective.`)"
+                },
+                {
+                    "source": "setName('Excluded Folder Paths')",
+                    "target": "setName('Excluded Folder Paths')"
+                },
+                {
+                    "source": "setDesc('Use this button to reload the file tree. Reloading the file tree is required for some of the settings. You can also restart your vault to have same effect.')",
+                    "target": "setDesc('Use this button to reload the file tree. Reloading the file tree is required for some of the settings. You can also restart your vault to have same effect.')"
+                },
+                {
+                    "source": "setTooltip('Click here to reload the file tree')",
+                    "target": "setTooltip('Click here to reload the file tree')"
+                },
+                {
+                    "source": "setButtonText('Reload File Tree')",
+                    "target": "setButtonText('Reload File Tree')"
+                },
+                {
+                    "source": "setName('Clear All Cache Data')",
+                    "target": "setName('Clear All Cache Data')"
+                },
+                {
+                    "source": "setTooltip('Click here to clear the cache data')",
+                    "target": "setTooltip('Click here to clear the cache data')"
+                },
+                {
+                    "source": "setButtonText('Click for Clearing the Cache')",
+                    "target": "setButtonText('Click for Clearing the Cache')"
+                },
+                {
+                    "source": "Notice('The plugin cache is cleared...')",
+                    "target": "Notice('The plugin cache is cleared...')"
+                },
+                {
+                    "source": "setName('Clear Pinned Files')",
+                    "target": "setName('Clear Pinned Files')"
+                },
+                {
+                    "source": "setDesc(`This button will clear the pinned files in the file list pane.`)",
+                    "target": "setDesc(`This button will clear the pinned files in the file list pane.`)"
+                },
+                {
+                    "source": "setTooltip('Click here to clear the pinned files')",
+                    "target": "setTooltip('Click here to clear the pinned files')"
+                },
+                {
+                    "source": "setButtonText('Click for Clearing the Pinned files')",
+                    "target": "setButtonText('Click for Clearing the Pinned files')"
+                },
+                {
+                    "source": "Notice('The pinned files are cleared...')",
+                    "target": "Notice('The pinned files are cleared...')"
+                },
+                {
+                    "source": "Notice('Not a file or folder')",
+                    "target": "Notice('Not a file or folder')"
+                },
+                {
+                    "source": "log('Loading Alternative File Tree Plugin')",
+                    "target": "log('Loading Alternative File Tree Plugin')"
+                },
+                {
+                    "source": "log('Unloading Alternative File Tree Plugin')",
+                    "target": "log('Unloading Alternative File Tree Plugin')"
+                },
+                {
+                    "source": "name='Invariant Violation'",
+                    "target": "name='Invariant Violation'"
+                },
+                {
+                    "source": "text: 'Confirm'",
+                    "target": "text: 'Confirm'"
+                },
+                {
+                    "source": "text: 'Cancel'",
+                    "target": "text: 'Cancel'"
+                },
+                {
+                    "source": "text: 'General'",
+                    "target": "text: 'General'"
+                },
+                {
+                    "source": "text: 'Folder Pane Settings'",
+                    "target": "text: 'Folder Pane Settings'"
+                },
+                {
+                    "source": "text: 'File Pane Settings'",
+                    "target": "text: 'File Pane Settings'"
+                },
+                {
+                    "source": "text: 'File Creation'",
+                    "target": "text: 'File Creation'"
+                },
+                {
+                    "source": "text: 'The settings below are only applicable if the plus (+) button within the file pane of the plugin is used.'",
+                    "target": "text: 'The settings below are only applicable if the plus (+) button within the file pane of the plugin is used.'"
+                },
+                {
+                    "source": "text: 'Exclude Settings'",
+                    "target": "text: 'Exclude Settings'"
+                },
+                {
+                    "source": "text: 'Clear Data'",
+                    "target": "text: 'Clear Data'"
+                },
+                {
+                    "source": "name: 'Open File Tree View'",
+                    "target": "name: 'Open File Tree View'"
+                },
+                {
+                    "source": "name: 'Reveal Active File'",
+                    "target": "name: 'Reveal Active File'"
+                },
+                {
+                    "source": "name: 'Create a New Note'",
+                    "target": "name: 'Create a New Note'"
+                }
+            ]
+        }
+    }
+}
